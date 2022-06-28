@@ -51,7 +51,7 @@ return (
 			})
 			.map((val, id) => {
 				console.log(val);
-				const {rank,websiteUrl,icon,icwebsiteUrlon,name,symbol,marketCap,price
+				const {rank,websiteUrl,icon,name,symbol,marketCap,price
 				,availableSupply,volume} =val;
 			return (
 				<>
